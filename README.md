@@ -1,5 +1,4 @@
-## 📂 **My Projects**  
-Here are some of the projects I’ve worked on:  
+  
 
 1. **Capstone project from excel**:  
    - **Objective**: Analyzed sales and customer trends for Freshco Hypermarket using Python and Tableau.  
